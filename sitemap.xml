@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://initlife.com/</loc></url>
-  <url><loc>https://initlife.com/privacy.html</loc></url>
-  <url><loc>https://initlife.com/terms.html</loc></url>
+  <url><loc>https://app.initlife.com/</loc></url>
+  <url><loc>https://app.initlife.com/blog.html</loc></url>
+  <url><loc>https://app.initlife.com/blog-secretbankx-local-first.html</loc></url>
+  <url><loc>https://app.initlife.com/privacy.html</loc></url>
+  <url><loc>https://app.initlife.com/terms.html</loc></url>
 </urlset>
